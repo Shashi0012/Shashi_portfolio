@@ -1,5 +1,6 @@
 # Shashi_portfolio
 Data Anayltical Portfolio
+
 **1)Aquaguard (Eureka)  Retail Sales Analytics:   SQL|Power BI|MongoDB Atlas SQL**
 -- Developed stored procedures and views for data cleansing, normalization, joins, and aggregations, ensuring data quality and performance.
 -- Led to a 12% increase in regional sales by optimizing product focus based on dashboard insights.
